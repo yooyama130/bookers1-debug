@@ -11,3 +11,5 @@
 　　$ rails db:rollback
 　x個前までファイルを戻す
 　　$ rails db:rollback STEP=x
+
+●render後のページに@booksが必要。
